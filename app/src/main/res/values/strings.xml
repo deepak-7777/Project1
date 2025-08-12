@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">531945756955-dejg71rkpri5leo392f7g4orpp51rkj8.apps.googleusercontent.com</string>
+    <string name="app_id">ca-app-pub-8478996041963281~7118488750</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+
+
+</resources>
