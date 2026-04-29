@@ -1,4 +1,4 @@
-# 📂 10-Minute Delivery Shopping App
+# 📂 10-Minute Delivery App
 
 This repository contains an **online shopping application** based on a 10-minute delivery concept, inspired by instant grocery delivery platforms. The app focuses on providing a quick shopping experience with fast product selection and cart management.
 
